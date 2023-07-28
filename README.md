@@ -5,3 +5,6 @@ All groupID, StaffRank and discors webhooks provided in the script must be chang
 
 # Discord webhooks will not work.
 You need to paste your webhook into https://hooks.hyra.io/ and generate one from the proxy.
+
+![image](https://github.com/SavageSzym-Productions/ActivityLogger/assets/61160638/7b6e70da-8428-4471-b799-b8230d075e4a)
+If you've done setup correctly, a message like this one will be logged in your selected webhook channel.
